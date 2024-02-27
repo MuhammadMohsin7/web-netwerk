@@ -1,0 +1,113 @@
+.container {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    /* border: 1px solid black; */
+}
+
+/* body{
+    font-family: Prompt;
+} */
+
+.heading {
+    color: #0E68D2;
+    font-size: 26px;
+}
+
+.image-container {
+    max-width: 450px;
+}
+
+.image-container img {
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    font-size: 50px;
+    color: #000000;
+}
+
+.top-feature {
+    background-color: #EFECFF;
+    color: #0E68D2;
+    padding: 15px 20px;
+    border-radius: 50px;
+    width: max-content;
+    margin: 0 auto;
+}
+
+.feature-heading {
+    text-align: center;
+    font-size: 40px;
+    color: #000000;
+    margin-bottom: 0px;
+}
+
+.feature-steps {
+    gap: 30px;
+    margin: 3rem auto;
+}
+
+
+/* .portfolio-img-container{
+    max-width: 700px;
+} */
+
+.portfolio-img-container img {
+    width: 100%;
+    height: 100%;
+}
+
+.mobile-app-container {
+    width: 100%;
+    height: 300px;
+    background-color: #F9F9F9;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.mobile-app-container .heading {
+    font-size: 18px;
+}
+
+.mobile-app-container h2 {
+    width: 70%;
+    font-size: 26px;
+}
+
+.mobile-app-container .text-gray {
+    font-size: 20px;
+}
+
+.text-gray {
+    color: #797979;
+}
+
+.download-button {
+    padding: 15px 20px;
+    border-radius: 50px;
+    width: max-content;
+    font-size: 24px;
+    margin: 0 auto;
+}
+
+.app-store {
+    background-color: #EA5143;
+    color: white;
+}
+
+.app-store img{
+    width: 20px;
+    margin-top: -5px;
+}
+
+.play-store {
+    color: #EA5143;
+    background-color: white;
+    border: 1px solid #D3D3D3;
+}
+
+.play-store img{
+    width: 25px;
+    margin-top: -5px;
+}
